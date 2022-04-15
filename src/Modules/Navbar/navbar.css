@@ -1,0 +1,15 @@
+.navB{
+    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 8%);
+    transition: all 400ms;
+    padding: 18px 0 18px 0;
+    z-index:2;
+    position: fixed;
+    background-color: #fff;
+}
+.containerN{
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    max-width: 1140px;
+}

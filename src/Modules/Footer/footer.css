@@ -1,0 +1,41 @@
+.copyWrite{
+    background-color: #320847;
+    color: white;
+    font-size: 14px;
+    padding: 7px;
+    bottom: 0;
+}
+.footerService{
+    font-family: "Helvetica",Sans-serif;
+    font-size: 16px;
+    font-weight: 800;
+    color:#462158;
+    margin-top:40px;
+    overflow: hidden;
+}
+.fServicediv{
+    padding: 1px 20px;
+    color:#7a7a7a;
+}
+.fServicediv:hover{
+    color:#462158;
+}
+.fdiv{
+    margin-top: calc(0px/2);
+    padding-bottom: calc(20px/2);
+    text-align: left;
+    color:#7a7a7a;
+    padding-left: 15px;
+}
+.footerC{
+    background-color: #FBFBFB;
+    padding-bottom: 20px;
+}
+.icon{
+    background-color: white;
+    line-height: var(--icon-size,25px);
+    width: calc(var(--icon-size, 25px) + (2 * var(--icon-padding, .5em)));
+    height: calc(var(--icon-size, 25px) + (2 * var(--icon-padding, .5em)));
+    color:#462158;
+    font-size: 24px;
+}

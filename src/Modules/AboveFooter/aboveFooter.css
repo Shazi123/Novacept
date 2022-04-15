@@ -1,0 +1,51 @@
+.aboveFooterDiv{
+    background-color: #DEEFFB;
+    padding-bottom: 18px;
+}
+.texth2{
+    color:#462158;
+    font-family: "Helvetica",Sans-serif;
+    font-size: 26px;
+    font-weight: 700 ;
+    line-height: 1.2em;
+    margin-bottom: 28px;
+    padding-top:28px;
+}
+.card{
+    box-shadow: 0 0 10px 0 rgb(0 0 0 / 50%);
+    border-radius: 50px 50px 50px 50px;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+}
+.ceoName{
+    color: #000;
+    font-family: "Helvetica",Sans-serif;
+    font-size: 28px;
+    font-weight: 700;   
+}
+.ceoDiv{
+    margin-left: 20px;
+    margin-top:4%;
+}
+.ceoSubDiv{
+    font-size: 14px;
+    margin-left: 22px;
+    color: #7a7a7a;
+}
+.ceoLine{
+    margin-top:20px;
+    margin-bottom: 25px;
+    color: #000;
+    font-size: 1.3em;
+    font-style: italic;
+    line-height: 1.5;
+    text-align: center;
+    padding:0px 20px;
+}
+.card-body{
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
